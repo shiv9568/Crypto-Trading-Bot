@@ -1,0 +1,16 @@
+=2025-10-02 15:53:03,782 | INFO     | logging_config:setup_logging:37 | Logging configured successfully.
+2025-10-02 15:53:03,785 | INFO     | trader:__init__:25 | Initializing BasicBot. Testnet mode: True
+2025-10-02 15:53:03,802 | ERROR    | trader:__init__:45 | Failed to initialize Binance Client. Check API keys and network: Client.__init__() got an unexpected keyword argument 'base_url'
+2025-10-02 15:53:03,803 | CRITICAL | bot:main:97 | Bot initialization failed. Exiting.
+2025-10-02 15:54:38,099 | INFO     | logging_config:setup_logging:37 | Logging configured successfully.
+2025-10-02 15:54:38,099 | INFO     | trader:__init__:25 | Initializing BasicBot. Testnet mode: True
+2025-10-02 15:54:38,106 | ERROR    | trader:__init__:45 | Failed to initialize Binance Client. Check API keys and network: Client.__init__() got an unexpected keyword argument 'base_url'
+2025-10-02 15:54:38,106 | CRITICAL | bot:main:97 | Bot initialization failed. Exiting.
+2025-10-02 15:57:34,395 | INFO     | logging_config:setup_logging:37 | Logging configured successfully.
+2025-10-02 15:57:34,397 | INFO     | trader:__init__:25 | Initializing BasicBot. Testnet mode: True
+2025-10-02 15:57:34,405 | ERROR    | trader:__init__:42 | Failed to initialize Binance Client. Check API keys and network: Client.__init__() got an unexpected keyword argument 'base_url'
+2025-10-02 15:57:34,405 | CRITICAL | bot:main:97 | Bot initialization failed. Exiting.
+2025-10-02 16:05:02,544 | INFO     | logging_config:setup_logging:37 | Logging configured successfully.
+2025-10-02 16:05:02,546 | INFO     | trader:__init__:25 | Initializing BasicBot. Testnet mode: True
+2025-10-02 16:05:02,556 | ERROR    | trader:__init__:45 | Failed to initialize Binance Client. Check API keys and network: Client.__init__() got an unexpected keyword argument 'base_url'
+2025-10-02 16:05:02,557 | CRITICAL | bot:main:86 | Bot initialization failed. Exiting.
